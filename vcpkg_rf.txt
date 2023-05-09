@@ -1,0 +1,3 @@
+install
+libusb
+nlohmann-json
